@@ -1,0 +1,84 @@
+[
+    {
+        "timeToMake": 3.8,
+        "price": 7.77,
+        "beverage": "Cold coffee"
+    },
+    {
+        "timeToMake": 2.43,
+        "price": 5.2,
+        "beverage": "Plain coffee"
+    },
+    {
+        "timeToMake": 2.24,
+        "price": 6.15,
+        "beverage": "Cappuccino"
+    },
+    {
+        "timeToMake": 1.28,
+        "price": 5.38,
+        "beverage": "Espresso"
+    },
+    {
+        "timeToMake": 3.85,
+        "price": 5.7,
+        "beverage": "Latte"
+    },
+    {
+        "timeToMake": 0.91,
+        "price": 5.53,
+        "beverage": "Caffe mocha"
+    }
+]
+
+[
+    {
+        "beverage": 5,
+        "orderFor": "LS8NSQGBD3"
+    },
+    {
+        "beverage": 3,
+        "orderFor": "INM44ECFOJ"
+    },
+    {
+        "beverage": 4,
+        "orderFor": "OQ3902FA4Q"
+    },
+    {
+        "beverage": 4,
+        "orderFor": "3N17RTPKPO"
+    },
+    {
+        "beverage": 0,
+        "orderFor": "BBDIPG2H32"
+    },
+    {
+        "beverage": 1,
+        "orderFor": "HJANGKIN73"
+    }
+]
+
+{
+    "beverage": "Caffe mocha",
+    "orderFor": "4522211GQ5"
+},
+{
+    "beverage": "Cappuccino",
+    "orderFor": "RQMELE986C"
+},
+{
+    "beverage": "Plain coffee",
+    "orderFor": "LJR0MT4JNP"
+},
+{
+    "beverage": "Caffe mocha",
+    "orderFor": "STII7N63MN"
+},
+{
+    "beverage": "Plain coffee",
+    "orderFor": "126HRK9H8T"
+},
+{
+    "beverage": "Espresso",
+    "orderFor": "0B2C7J9BAA"
+}
